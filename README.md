@@ -1,4 +1,4 @@
-# Dog Image Generator 🐶
+<h1>#1 Dog Image Generator 🐶</h1>
 
 A minimalist web application that fetches random dog images from a public API.
 
@@ -21,9 +21,9 @@ This project connects to:
 `https://dog.ceo`
 
 ## 📄 License
-MIT License - Feel free to use this
-<hr>
- <h1>API Documentation Page
+MIT License - Feel free to use this<br><br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+ <h1>#2 API Documentation Page
 </h1>
 This project contains a simple API documentation page in `api.html`.
 
