@@ -22,3 +22,32 @@ This project connects to:
 
 ## 📄 License
 MIT License - Feel free to use this
+<hr>
+ <h1>API Documentation Page
+</h1>
+This project contains a simple API documentation page in `api.html`.
+
+## Overview
+
+- `api.html` is a static page that describes and demonstrates fetching facts from an external API.
+- `api.js` fetches data from `https://meowfacts.herokuapp.com` and displays the returned fact on the page.
+- `api.css` contains the styling used by the API page.
+
+## Usage
+
+1. Open `api.html` in a browser.
+2. Click the **Get Facts** button.
+3. The page will fetch a fact from the API and display it below the description.
+
+## Files
+
+- `api.html` - HTML page for API documentation and example usage.
+- `api.js` - JavaScript that performs the API request and updates the page.
+- `api.css` - CSS used by the API page.
+- `index.html` - Additional page in the workspace.
+
+## Notes
+
+- The page currently uses the Meow Facts API endpoint.
+- The description text in `api.html` can be updated if you want it to match the fetched data source more closely.
+
