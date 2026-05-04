@@ -1,6 +1,6 @@
 async function weather(){
     let city=document.querySelector("input").value;
-    const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=3b304593d7c0b8943f2ea0c0dc7d1355`);
+    const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=`);
     const data = await response.json();
     console.log(data);
     let temp=data.main.temp-273.15;
