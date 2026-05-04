@@ -45,8 +45,43 @@ This project contains a simple API documentation page in `api.html`.
 - `api.js` - JavaScript that performs the API request and updates the page.
 - `api.css` - CSS used by the API page.
 - `index.html` - Additional page in the workspace.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-## Notes
+
+# #3 Weather App
+
+A simple and stylish weather application that fetches real-time weather data for any city using the OpenWeatherMap API.
+
+## ✨ Features
+
+- 🔍 Search for weather by city name
+- 🌡️ Display temperature in Celsius
+- ☁️ Show weather conditions (e.g., sunny, cloudy)
+- 🎨 Beautiful UI with gradients and animations
+- 📱 Responsive design
+
+## 🚀 How to Use
+
+1. Clone or download the repository.
+2. Open `index.html` in your web browser.
+3. Enter a city name in the input field.
+4. Click the "Search" button to get the weather!
+
+## 🔑 API Key
+
+This app uses the OpenWeatherMap API. You'll need to sign up for a free API key at [OpenWeatherMap](https://openweathermap.org/api) and replace the `appid` in `script.js` with your key.
+
+## 📁 Files
+
+- `index.html` - The main HTML structure
+- `style.css` - Styling for the app
+- `script.js` - JavaScript for fetching and displaying weather data
+
+## 🌟 Demo
+
+Just open the HTML file in a browser and start searching for weather! ☀️
+
+Enjoy checking the weather! 🌈
 
 - The page currently uses the Meow Facts API endpoint.
 - The description text in `api.html` can be updated if you want it to match the fetched data source more closely.
